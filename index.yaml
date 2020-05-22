@@ -1,0 +1,27 @@
+apiVersion: v1
+entries:
+  falco:
+  - apiVersion: v1
+    appVersion: 0.23.0
+    created: "2020-05-22T19:07:34.65538872Z"
+    description: Falco
+    digest: f9486c5a2c894b56e5f8be008515a19b3b09304e504ba7a0a7927a5ae80ac7bc
+    home: https://falco.org
+    icon: https://falco.org/images/logos/falco-logo.png
+    keywords:
+    - monitoring
+    - security
+    - alerting
+    - metric
+    - troubleshooting
+    - run-time
+    maintainers:
+    - email: nestor.salceda@sysdig.com
+      name: nestorsalceda
+    name: falco
+    sources:
+    - https://github.com/falcosecurity/falco
+    urls:
+    - https://nibalizer.github.com/charts/falco-1.1.8.tgz
+    version: 1.1.8
+generated: "2020-05-22T19:07:34.651632273Z"
