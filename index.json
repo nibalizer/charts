@@ -1,11 +1,11 @@
 {
-  "generated": "2020-05-22T19:14:17.142124079Z",
+  "generated": "2020-05-22T19:18:02.41655251Z",
   "apiVersion": "v1",
   "entries": {
     "falco": [
       {
         "description": "Falco",
-        "created": "2020-05-22T19:14:17.146128471Z",
+        "created": "2020-05-22T19:18:02.420549353Z",
         "appVersion": "0.23.0",
         "apiVersion": "v1",
         "sources": [
@@ -31,7 +31,7 @@
         ],
         "home": "https://falco.org",
         "icon": "https://falco.org/images/logos/falco-logo.png",
-        "digest": "faa0dff1f5da4682f7942da7d1de96fdbc8d4324df59fdde7cfb925e9618f65a",
+        "digest": "eec95b91e3d07b3373753e4f6936da61169206f2b95bbf6e415e5100fc484c9b",
         "name": "falco"
       }
     ]
