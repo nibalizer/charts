@@ -3,9 +3,9 @@ entries:
   falco:
   - apiVersion: v1
     appVersion: 0.23.0
-    created: "2020-05-22T19:12:28.020632428Z"
+    created: "2020-05-22T19:14:17.146128471Z"
     description: Falco
-    digest: 5b0ef902ac4ce5abf84248f741cc931dcf1b011d6e22a41072642531fb5475e7
+    digest: faa0dff1f5da4682f7942da7d1de96fdbc8d4324df59fdde7cfb925e9618f65a
     home: https://falco.org
     icon: https://falco.org/images/logos/falco-logo.png
     keywords:
@@ -24,4 +24,4 @@ entries:
     urls:
     - https://nibalizer.github.com/charts/falco-1.1.8.tgz
     version: 1.1.8
-generated: "2020-05-22T19:12:28.016717776Z"
+generated: "2020-05-22T19:14:17.142124079Z"
